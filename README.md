@@ -18,7 +18,7 @@ print(bin(a))
 ```
 ## Output
 
-<img width="765" height="340" alt="image" src="https://github.com/user-attachments/assets/923b39dd-09eb-4776-8ff2-a321b10cec39" />
+<img width="553" height="182" alt="image" src="https://github.com/user-attachments/assets/75275e7f-fbfb-4a1a-adfa-5209bd9fb766" />
 
 ## Result
 Thus, the program has been excecuted successfully.
