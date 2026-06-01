@@ -48,7 +48,7 @@ result(a, b)
 ```
 ## Output
 
-<img width="1000" height="558" alt="image" src="https://github.com/user-attachments/assets/24e170dd-c0c5-4ad8-b4d7-abe8625ed07f" />
+<img width="888" height="451" alt="image" src="https://github.com/user-attachments/assets/d1d6fd57-0054-4f60-af05-9a9f4e1b3c72" />
 
 ## Result
 Thus, the program has been excecuted successfully.
@@ -75,7 +75,7 @@ print(f(a, b))
 ```
 ## Output
 
-<img width="1023" height="467" alt="image" src="https://github.com/user-attachments/assets/8d2fb95d-73ea-4cf8-921b-d4a12d3322d7" />
+<img width="867" height="357" alt="image" src="https://github.com/user-attachments/assets/46bc92b7-9e59-4e63-9499-309b0baadb72" />
 
 ## Result
 Thus, the program has been excecuted successfully.
@@ -118,7 +118,7 @@ for i in range(n):
 ```
 ## Sample Output
 
-<img width="1411" height="660" alt="image" src="https://github.com/user-attachments/assets/1346fea5-a315-46c5-97c3-9ccc1cfa4661" />
+<img width="1302" height="659" alt="image" src="https://github.com/user-attachments/assets/8e7d38eb-6627-455d-89c0-a5668959de76" />
 
 ## Result
 Thus, the program has been excecuted successfully.
@@ -158,7 +158,7 @@ else:
 ```
 ## Output
 
-<img width="737" height="486" alt="image" src="https://github.com/user-attachments/assets/6350ab99-a67a-4dd6-a086-7d5a95f987fe" />
+<img width="816" height="461" alt="image" src="https://github.com/user-attachments/assets/9471c87a-3c02-494b-a1d2-da214e92f906" />
 
 ## Result
 Thus, the program has been excecuted successfully.
